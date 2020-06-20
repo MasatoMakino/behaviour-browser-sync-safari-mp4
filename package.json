@@ -1,0 +1,18 @@
+{
+  "name": "behaviour-browser-sync-safari-mp4",
+  "version": "0.1.0",
+  "description": "behaviour tests of video element.",
+  "main": "index.js",
+  "repository": "https://MasatoMakino@github.com/MasatoMakino/behaviour-browser-sync-safari-mp4.git",
+  "author": "MasatoMakino <unagiinu.g@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "serve": "^11.3.2"
+  },
+  "scripts": {
+    "browser-sync": "browser-sync start --server docs",
+    "serve": "serve docs",
+    "php": "php -S localhost:3005 -t docs"
+  }
+}
