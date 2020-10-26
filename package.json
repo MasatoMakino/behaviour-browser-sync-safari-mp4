@@ -1,6 +1,6 @@
 {
   "name": "behaviour-browser-sync-safari-mp4",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "behaviour tests of video element.",
   "main": "index.js",
   "repository": "https://MasatoMakino@github.com/MasatoMakino/behaviour-browser-sync-safari-mp4.git",
